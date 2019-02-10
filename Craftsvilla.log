@@ -1,0 +1,280 @@
+2019-02-09 10:55:00 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (fcc4112f9422ee947bfd262b2bff26ce)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']] found
+2019-02-09 10:55:01 INFO  BasePage:60 - Mouse hovered on [[ChromeDriver: chrome on XP (fcc4112f9422ee947bfd262b2bff26ce)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']]
+2019-02-09 10:55:02 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (fcc4112f9422ee947bfd262b2bff26ce)] -> link text: Embroidered Sarees] found
+2019-02-09 10:55:17 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (fcc4112f9422ee947bfd262b2bff26ce)] -> xpath: //img[contains(@src,'1538759448-Craftsvilla_1.jpg')]] found
+2019-02-09 10:55:27 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (fcc4112f9422ee947bfd262b2bff26ce)] -> id: buynow] found
+2019-02-09 10:55:35 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (fcc4112f9422ee947bfd262b2bff26ce)] -> id: address-email] found
+2019-02-09 10:55:36 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (fcc4112f9422ee947bfd262b2bff26ce)] -> id: address-first-name] found
+2019-02-09 10:55:37 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (fcc4112f9422ee947bfd262b2bff26ce)] -> id: address-mobileno] found
+2019-02-09 10:55:37 INFO  BaseTest:41 - tc_01_buyProductFromEmbroidedSarees has been executed successfully
+2019-02-09 10:58:44 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (1e39b905ab715c0ce5ee09ab4158f2aa)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']] found
+2019-02-09 10:58:44 INFO  BasePage:60 - Mouse hovered on [[ChromeDriver: chrome on XP (1e39b905ab715c0ce5ee09ab4158f2aa)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']]
+2019-02-09 10:58:46 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (1e39b905ab715c0ce5ee09ab4158f2aa)] -> link text: Embroidered Sarees] found
+2019-02-09 10:59:03 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (1e39b905ab715c0ce5ee09ab4158f2aa)] -> xpath: //img[contains(@src,'1538759448-Craftsvilla_1.jpg')]] found
+2019-02-09 10:59:15 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (1e39b905ab715c0ce5ee09ab4158f2aa)] -> id: buynow] found
+2019-02-09 10:59:21 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (1e39b905ab715c0ce5ee09ab4158f2aa)] -> id: address-email] found
+2019-02-09 10:59:22 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (1e39b905ab715c0ce5ee09ab4158f2aa)] -> id: address-first-name] found
+2019-02-09 11:02:01 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (9c9322863c2833ea2a9b78de3a7d1806)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']] found
+2019-02-09 11:02:01 INFO  BasePage:60 - Mouse hovered on [[ChromeDriver: chrome on XP (9c9322863c2833ea2a9b78de3a7d1806)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']]
+2019-02-09 11:02:03 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (9c9322863c2833ea2a9b78de3a7d1806)] -> link text: Embroidered Sarees] found
+2019-02-09 11:02:16 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (9c9322863c2833ea2a9b78de3a7d1806)] -> xpath: //img[contains(@src,'1538759448-Craftsvilla_1.jpg')]] found
+2019-02-09 11:02:24 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (9c9322863c2833ea2a9b78de3a7d1806)] -> id: buynow] found
+2019-02-10 08:25:12 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (36cf335a1d0ff4fa4b53763d50f2f78f)] -> xpath: //span[text()='Sign In']] found
+2019-02-10 08:25:12 INFO  BasePage:47 - clicked on [[ChromeDriver: chrome on XP (36cf335a1d0ff4fa4b53763d50f2f78f)] -> xpath: //span[text()='Sign In']]
+2019-02-10 08:25:13 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (36cf335a1d0ff4fa4b53763d50f2f78f)] -> id: emailId] found
+2019-02-10 08:25:14 INFO  BasePage:79 - abitha12345.j@gmail.com has been set to [[ChromeDriver: chrome on XP (36cf335a1d0ff4fa4b53763d50f2f78f)] -> id: emailId]
+2019-02-10 08:25:14 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (36cf335a1d0ff4fa4b53763d50f2f78f)] -> id: continueBtn] found
+2019-02-10 08:25:15 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (36cf335a1d0ff4fa4b53763d50f2f78f)] -> id: continueBtn]
+2019-02-10 08:25:15 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (36cf335a1d0ff4fa4b53763d50f2f78f)] -> id: userPassword] found
+2019-02-10 08:25:16 INFO  BasePage:107 - Apple12346 has been set to [[ChromeDriver: chrome on XP (36cf335a1d0ff4fa4b53763d50f2f78f)] -> id: userPassword]
+2019-02-10 08:25:16 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (36cf335a1d0ff4fa4b53763d50f2f78f)] -> id: loginCheck] found
+2019-02-10 08:25:17 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (36cf335a1d0ff4fa4b53763d50f2f78f)] -> id: loginCheck]
+2019-02-10 08:25:25 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (36cf335a1d0ff4fa4b53763d50f2f78f)] -> xpath: //i[@class='icon first_arrow hidden-xs']] found
+2019-02-10 08:25:25 INFO  BasePage:60 - Mouse hovered on [[ChromeDriver: chrome on XP (36cf335a1d0ff4fa4b53763d50f2f78f)] -> xpath: //i[@class='icon first_arrow hidden-xs']]
+2019-02-10 08:26:55 ERROR BasePage:49 - Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='https://cvaccount.craftsvilla.com/customer/account/logout']' not found
+2019-02-10 08:27:26 INFO  BasePage:31 - Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla matched.
+2019-02-10 08:27:39 ERROR BaseTest:43 - Testcase failed org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'DESKTOP-01THEB1', ip: '192.168.0.7', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.45.615291 (ec3682e3c9061c..., userDataDir: C:\Users\Zerobean\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:50629}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: 36cf335a1d0ff4fa4b53763d50f2f78f
+*** Element info: {Using=xpath, value=//span[text()='Sign In']}
+2019-02-10 08:31:39 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> xpath: //span[text()='Sign In']] found
+2019-02-10 08:31:39 INFO  BasePage:47 - clicked on [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> xpath: //span[text()='Sign In']]
+2019-02-10 08:31:40 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: emailId] found
+2019-02-10 08:31:41 INFO  BasePage:79 - abitha12345.j@gmail.com has been set to [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: emailId]
+2019-02-10 08:31:42 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: continueBtn] found
+2019-02-10 08:31:42 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: continueBtn]
+2019-02-10 08:31:42 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: userPassword] found
+2019-02-10 08:31:43 INFO  BasePage:107 - Apple12346 has been set to [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: userPassword]
+2019-02-10 08:31:43 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: loginCheck] found
+2019-02-10 08:31:43 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: loginCheck]
+2019-02-10 08:31:52 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> xpath: //i[@class='icon first_arrow hidden-xs']] found
+2019-02-10 08:31:52 INFO  BasePage:60 - Mouse hovered on [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> xpath: //i[@class='icon first_arrow hidden-xs']]
+2019-02-10 08:31:52 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> xpath: //i[@class='icon logout']] found
+2019-02-10 08:31:52 INFO  BasePage:31 - Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla matched.
+2019-02-10 08:31:57 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> xpath: //span[text()='Sign In']] found
+2019-02-10 08:31:57 INFO  BasePage:47 - clicked on [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> xpath: //span[text()='Sign In']]
+2019-02-10 08:31:58 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: emailId] found
+2019-02-10 08:31:59 INFO  BasePage:79 - sudarshan@gmail.com has been set to [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: emailId]
+2019-02-10 08:31:59 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: continueBtn] found
+2019-02-10 08:31:59 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: continueBtn]
+2019-02-10 08:32:00 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: userPassword] found
+2019-02-10 08:32:00 INFO  BasePage:107 - Apple12347 has been set to [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: userPassword]
+2019-02-10 08:32:00 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: loginCheck] found
+2019-02-10 08:32:01 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: loginCheck]
+2019-02-10 08:32:08 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> xpath: //i[@class='icon first_arrow hidden-xs']] found
+2019-02-10 08:32:08 INFO  BasePage:60 - Mouse hovered on [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> xpath: //i[@class='icon first_arrow hidden-xs']]
+2019-02-10 08:32:09 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> xpath: //i[@class='icon logout']] found
+2019-02-10 08:32:09 INFO  BasePage:31 - Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla matched.
+2019-02-10 08:32:14 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> xpath: //span[text()='Sign In']] found
+2019-02-10 08:32:14 INFO  BasePage:47 - clicked on [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> xpath: //span[text()='Sign In']]
+2019-02-10 08:32:15 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: emailId] found
+2019-02-10 08:32:16 INFO  BasePage:79 - yomi@gmail.com has been set to [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: emailId]
+2019-02-10 08:32:17 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: continueBtn] found
+2019-02-10 08:32:17 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: continueBtn]
+2019-02-10 08:32:17 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: userPassword] found
+2019-02-10 08:32:18 INFO  BasePage:107 - Apple12348 has been set to [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: userPassword]
+2019-02-10 08:32:18 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: loginCheck] found
+2019-02-10 08:32:18 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: loginCheck]
+2019-02-10 08:32:25 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> xpath: //i[@class='icon first_arrow hidden-xs']] found
+2019-02-10 08:32:25 INFO  BasePage:60 - Mouse hovered on [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> xpath: //i[@class='icon first_arrow hidden-xs']]
+2019-02-10 08:32:26 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> xpath: //i[@class='icon logout']] found
+2019-02-10 08:32:26 INFO  BasePage:31 - Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla matched.
+2019-02-10 08:32:31 ERROR BasePage:49 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> xpath: //span[text()='Sign In']] not found
+2019-02-10 08:32:31 INFO  BasePage:47 - clicked on [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> xpath: //span[text()='Sign In']]
+2019-02-10 08:32:32 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: emailId] found
+2019-02-10 08:32:33 INFO  BasePage:79 - prema@gmail.com has been set to [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: emailId]
+2019-02-10 08:32:33 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: continueBtn] found
+2019-02-10 08:32:33 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: continueBtn]
+2019-02-10 08:32:34 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: userPassword] found
+2019-02-10 08:32:34 INFO  BasePage:107 - Apple12349 has been set to [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: userPassword]
+2019-02-10 08:32:34 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: loginCheck] found
+2019-02-10 08:32:35 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (beffe6a796a6bb50a0b6da522ba51389)] -> id: loginCheck]
+2019-02-10 08:36:45 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (b2e1726d93654afcb36a59f69ea93206)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']] found
+2019-02-10 08:36:46 INFO  BasePage:60 - Mouse hovered on [[ChromeDriver: chrome on XP (b2e1726d93654afcb36a59f69ea93206)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']]
+2019-02-10 08:36:47 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (b2e1726d93654afcb36a59f69ea93206)] -> link text: Embroidered Sarees] found
+2019-02-10 08:37:04 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (b2e1726d93654afcb36a59f69ea93206)] -> xpath: //img[contains(@src,'1538759448-Craftsvilla_1.jpg')]] found
+2019-02-10 08:37:13 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (b2e1726d93654afcb36a59f69ea93206)] -> id: buynow] found
+2019-02-10 08:38:01 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> xpath: //span[text()='Sign In']] found
+2019-02-10 08:38:02 INFO  BasePage:47 - clicked on [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> xpath: //span[text()='Sign In']]
+2019-02-10 08:38:02 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: emailId] found
+2019-02-10 08:38:03 INFO  BasePage:79 - abitha12345.j@gmail.com has been set to [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: emailId]
+2019-02-10 08:38:03 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: continueBtn] found
+2019-02-10 08:38:03 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: continueBtn]
+2019-02-10 08:38:04 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: userPassword] found
+2019-02-10 08:38:04 INFO  BasePage:107 - Apple12346 has been set to [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: userPassword]
+2019-02-10 08:38:04 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: loginCheck] found
+2019-02-10 08:38:05 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: loginCheck]
+2019-02-10 08:38:13 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> xpath: //i[@class='icon first_arrow hidden-xs']] found
+2019-02-10 08:38:13 INFO  BasePage:60 - Mouse hovered on [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> xpath: //i[@class='icon first_arrow hidden-xs']]
+2019-02-10 08:38:13 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> xpath: //i[@class='icon logout']] found
+2019-02-10 08:38:14 INFO  BasePage:31 - Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla matched.
+2019-02-10 08:38:17 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> xpath: //span[text()='Sign In']] found
+2019-02-10 08:38:18 INFO  BasePage:47 - clicked on [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> xpath: //span[text()='Sign In']]
+2019-02-10 08:38:18 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: emailId] found
+2019-02-10 08:38:19 INFO  BasePage:79 - sudarshan@gmail.com has been set to [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: emailId]
+2019-02-10 08:38:19 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: continueBtn] found
+2019-02-10 08:38:19 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: continueBtn]
+2019-02-10 08:38:20 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: userPassword] found
+2019-02-10 08:38:21 INFO  BasePage:107 - Apple12347 has been set to [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: userPassword]
+2019-02-10 08:38:21 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: loginCheck] found
+2019-02-10 08:38:22 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: loginCheck]
+2019-02-10 08:38:30 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> xpath: //i[@class='icon first_arrow hidden-xs']] found
+2019-02-10 08:38:30 INFO  BasePage:60 - Mouse hovered on [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> xpath: //i[@class='icon first_arrow hidden-xs']]
+2019-02-10 08:38:30 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> xpath: //i[@class='icon logout']] found
+2019-02-10 08:38:31 INFO  BasePage:31 - Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla matched.
+2019-02-10 08:38:39 ERROR BasePage:49 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> xpath: //span[text()='Sign In']] not found
+2019-02-10 08:38:40 INFO  BasePage:47 - clicked on [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> xpath: //span[text()='Sign In']]
+2019-02-10 08:38:40 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: emailId] found
+2019-02-10 08:38:41 INFO  BasePage:79 - yomi@gmail.com has been set to [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: emailId]
+2019-02-10 08:38:41 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: continueBtn] found
+2019-02-10 08:38:41 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: continueBtn]
+2019-02-10 08:38:42 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: userPassword] found
+2019-02-10 08:38:43 INFO  BasePage:107 - Apple12348 has been set to [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: userPassword]
+2019-02-10 08:38:44 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: loginCheck] found
+2019-02-10 08:38:44 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: loginCheck]
+2019-02-10 08:38:51 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> xpath: //i[@class='icon first_arrow hidden-xs']] found
+2019-02-10 08:38:52 INFO  BasePage:60 - Mouse hovered on [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> xpath: //i[@class='icon first_arrow hidden-xs']]
+2019-02-10 08:38:52 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> xpath: //i[@class='icon logout']] found
+2019-02-10 08:38:52 INFO  BasePage:31 - Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla matched.
+2019-02-10 08:38:56 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> xpath: //span[text()='Sign In']] found
+2019-02-10 08:38:57 INFO  BasePage:47 - clicked on [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> xpath: //span[text()='Sign In']]
+2019-02-10 08:38:57 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: emailId] found
+2019-02-10 08:38:58 INFO  BasePage:79 - prema@gmail.com has been set to [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: emailId]
+2019-02-10 08:38:59 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: continueBtn] found
+2019-02-10 08:38:59 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: continueBtn]
+2019-02-10 08:39:00 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: userPassword] found
+2019-02-10 08:39:00 INFO  BasePage:107 - Apple12349 has been set to [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: userPassword]
+2019-02-10 08:39:00 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: loginCheck] found
+2019-02-10 08:39:01 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (8465f2a9722849c61079f77421b8084c)] -> id: loginCheck]
+2019-02-10 08:40:31 ERROR BasePage:49 - Proxy element for: DefaultElementLocator 'By.xpath: //i[@class='icon first_arrow hidden-xs']' not found
+2019-02-10 08:41:20 ERROR BasePage:35 - null and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla are not matched.
+2019-02-10 08:41:20 INFO  BaseTest:39 - tc_01_loginToApp has passed
+2019-02-10 08:53:09 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (e349f956c4f00f3e3c0e21c82c81ae17)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']] found
+2019-02-10 08:53:09 INFO  BasePage:60 - Mouse hovered on [[ChromeDriver: chrome on XP (e349f956c4f00f3e3c0e21c82c81ae17)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']]
+2019-02-10 08:53:10 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (e349f956c4f00f3e3c0e21c82c81ae17)] -> link text: Embroidered Sarees] found
+2019-02-10 08:53:24 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (e349f956c4f00f3e3c0e21c82c81ae17)] -> xpath: //img[contains(@src,'1538759448-Craftsvilla_1.jpg')]] found
+2019-02-10 08:53:33 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (e349f956c4f00f3e3c0e21c82c81ae17)] -> id: buynow] found
+2019-02-10 08:54:20 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> xpath: //span[text()='Sign In']] found
+2019-02-10 08:54:20 INFO  BasePage:47 - clicked on [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> xpath: //span[text()='Sign In']]
+2019-02-10 08:54:21 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: emailId] found
+2019-02-10 08:54:22 INFO  BasePage:79 - abitha12345.j@gmail.com has been set to [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: emailId]
+2019-02-10 08:54:22 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: continueBtn] found
+2019-02-10 08:54:22 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: continueBtn]
+2019-02-10 08:54:23 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: userPassword] found
+2019-02-10 08:54:23 INFO  BasePage:107 - Apple12346 has been set to [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: userPassword]
+2019-02-10 08:54:23 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: loginCheck] found
+2019-02-10 08:54:24 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: loginCheck]
+2019-02-10 08:54:32 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> xpath: //i[@class='icon first_arrow hidden-xs']] found
+2019-02-10 08:54:32 INFO  BasePage:60 - Mouse hovered on [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> xpath: //i[@class='icon first_arrow hidden-xs']]
+2019-02-10 08:54:32 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> xpath: //i[@class='icon logout']] found
+2019-02-10 08:54:33 INFO  BasePage:31 - Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla matched.
+2019-02-10 08:54:38 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> xpath: //span[text()='Sign In']] found
+2019-02-10 08:54:39 INFO  BasePage:47 - clicked on [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> xpath: //span[text()='Sign In']]
+2019-02-10 08:54:39 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: emailId] found
+2019-02-10 08:54:40 INFO  BasePage:79 - sudarshan@gmail.com has been set to [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: emailId]
+2019-02-10 08:54:40 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: continueBtn] found
+2019-02-10 08:54:41 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: continueBtn]
+2019-02-10 08:54:41 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: userPassword] found
+2019-02-10 08:54:41 INFO  BasePage:107 - Apple12347 has been set to [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: userPassword]
+2019-02-10 08:54:41 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: loginCheck] found
+2019-02-10 08:54:42 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: loginCheck]
+2019-02-10 08:54:49 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> xpath: //i[@class='icon first_arrow hidden-xs']] found
+2019-02-10 08:54:49 INFO  BasePage:60 - Mouse hovered on [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> xpath: //i[@class='icon first_arrow hidden-xs']]
+2019-02-10 08:54:49 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> xpath: //i[@class='icon logout']] found
+2019-02-10 08:55:20 INFO  BasePage:31 - Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla matched.
+2019-02-10 08:56:04 ERROR BasePage:49 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> xpath: //span[text()='Sign In']] not found
+2019-02-10 08:56:04 INFO  BasePage:47 - clicked on [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> xpath: //span[text()='Sign In']]
+2019-02-10 08:56:05 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: emailId] found
+2019-02-10 08:56:06 INFO  BasePage:79 - yomi@gmail.com has been set to [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: emailId]
+2019-02-10 08:56:06 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: continueBtn] found
+2019-02-10 08:56:06 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: continueBtn]
+2019-02-10 08:56:06 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: userPassword] found
+2019-02-10 08:56:07 INFO  BasePage:107 - Apple12348 has been set to [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: userPassword]
+2019-02-10 08:56:07 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: loginCheck] found
+2019-02-10 08:56:07 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: loginCheck]
+2019-02-10 08:56:14 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> xpath: //i[@class='icon first_arrow hidden-xs']] found
+2019-02-10 08:56:15 INFO  BasePage:60 - Mouse hovered on [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> xpath: //i[@class='icon first_arrow hidden-xs']]
+2019-02-10 08:56:15 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> xpath: //i[@class='icon logout']] found
+2019-02-10 08:56:15 INFO  BasePage:31 - Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla matched.
+2019-02-10 08:56:19 ERROR BasePage:49 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> xpath: //span[text()='Sign In']] not found
+2019-02-10 08:56:20 INFO  BasePage:47 - clicked on [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> xpath: //span[text()='Sign In']]
+2019-02-10 08:56:20 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: emailId] found
+2019-02-10 08:56:21 INFO  BasePage:79 - prema@gmail.com has been set to [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: emailId]
+2019-02-10 08:56:21 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: continueBtn] found
+2019-02-10 08:56:22 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: continueBtn]
+2019-02-10 08:56:22 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: userPassword] found
+2019-02-10 08:56:22 INFO  BasePage:107 - Apple12349 has been set to [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: userPassword]
+2019-02-10 08:56:22 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: loginCheck] found
+2019-02-10 08:56:23 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (f163d257c6d44102b711a53663e83493)] -> id: loginCheck]
+2019-02-10 08:57:53 ERROR BasePage:49 - Proxy element for: DefaultElementLocator 'By.xpath: //i[@class='icon first_arrow hidden-xs']' not found
+2019-02-10 08:58:53 ERROR BasePage:64 - Unable to mouse hover on Proxy element for: DefaultElementLocator 'By.xpath: //i[@class='icon first_arrow hidden-xs']'
+2019-02-10 09:00:23 ERROR BasePage:49 - Proxy element for: DefaultElementLocator 'By.xpath: //i[@class='icon logout']' not found
+2019-02-10 09:00:53 INFO  BasePage:31 - Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla matched.
+2019-02-10 09:09:46 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8d55b9ca99ae12fff8cd1b3badfd31f5)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']] found
+2019-02-10 09:09:49 INFO  BasePage:60 - Mouse hovered on [[ChromeDriver: chrome on XP (8d55b9ca99ae12fff8cd1b3badfd31f5)] -> xpath: //a[@href='/womens-clothing/sarees/?MID=megamenu_sarees_seeall']]
+2019-02-10 09:09:49 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8d55b9ca99ae12fff8cd1b3badfd31f5)] -> link text: Embroidered Sarees] found
+2019-02-10 09:10:05 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8d55b9ca99ae12fff8cd1b3badfd31f5)] -> xpath: //img[contains(@src,'1538759448-Craftsvilla_1.jpg')]] found
+2019-02-10 09:10:12 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (8d55b9ca99ae12fff8cd1b3badfd31f5)] -> id: buynow] found
+2019-02-10 09:11:02 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> xpath: //span[text()='Sign In']] found
+2019-02-10 09:11:02 INFO  BasePage:47 - clicked on [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> xpath: //span[text()='Sign In']]
+2019-02-10 09:11:03 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: emailId] found
+2019-02-10 09:11:04 INFO  BasePage:79 - abitha12345.j@gmail.com has been set to [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: emailId]
+2019-02-10 09:11:04 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: continueBtn] found
+2019-02-10 09:11:05 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: continueBtn]
+2019-02-10 09:11:05 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: userPassword] found
+2019-02-10 09:11:06 INFO  BasePage:107 - Apple12346 has been set to [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: userPassword]
+2019-02-10 09:11:06 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: loginCheck] found
+2019-02-10 09:11:06 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: loginCheck]
+2019-02-10 09:11:14 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> xpath: //i[@class='icon first_arrow hidden-xs']] found
+2019-02-10 09:11:14 INFO  BasePage:60 - Mouse hovered on [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> xpath: //i[@class='icon first_arrow hidden-xs']]
+2019-02-10 09:11:15 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> xpath: //i[@class='icon logout']] found
+2019-02-10 09:11:15 INFO  BasePage:31 - Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla matched.
+2019-02-10 09:11:20 ERROR BasePage:49 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> xpath: //span[text()='Sign In']] not found
+2019-02-10 09:11:20 INFO  BasePage:47 - clicked on [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> xpath: //span[text()='Sign In']]
+2019-02-10 09:11:21 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: emailId] found
+2019-02-10 09:11:22 INFO  BasePage:79 - sudarshan@gmail.com has been set to [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: emailId]
+2019-02-10 09:11:22 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: continueBtn] found
+2019-02-10 09:11:22 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: continueBtn]
+2019-02-10 09:11:23 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: userPassword] found
+2019-02-10 09:11:23 INFO  BasePage:107 - Apple12347 has been set to [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: userPassword]
+2019-02-10 09:11:23 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: loginCheck] found
+2019-02-10 09:11:24 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: loginCheck]
+2019-02-10 09:11:31 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> xpath: //i[@class='icon first_arrow hidden-xs']] found
+2019-02-10 09:11:31 INFO  BasePage:60 - Mouse hovered on [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> xpath: //i[@class='icon first_arrow hidden-xs']]
+2019-02-10 09:11:31 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> xpath: //i[@class='icon logout']] found
+2019-02-10 09:11:31 INFO  BasePage:31 - Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla matched.
+2019-02-10 09:11:37 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> xpath: //span[text()='Sign In']] found
+2019-02-10 09:11:37 INFO  BasePage:47 - clicked on [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> xpath: //span[text()='Sign In']]
+2019-02-10 09:11:38 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: emailId] found
+2019-02-10 09:11:38 INFO  BasePage:79 - yomi@gmail.com has been set to [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: emailId]
+2019-02-10 09:11:39 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: continueBtn] found
+2019-02-10 09:11:39 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: continueBtn]
+2019-02-10 09:11:39 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: userPassword] found
+2019-02-10 09:11:40 INFO  BasePage:107 - Apple12348 has been set to [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: userPassword]
+2019-02-10 09:11:40 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: loginCheck] found
+2019-02-10 09:11:40 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: loginCheck]
+2019-02-10 09:11:47 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> xpath: //i[@class='icon first_arrow hidden-xs']] found
+2019-02-10 09:11:48 INFO  BasePage:60 - Mouse hovered on [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> xpath: //i[@class='icon first_arrow hidden-xs']]
+2019-02-10 09:11:48 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> xpath: //i[@class='icon logout']] found
+2019-02-10 09:11:48 INFO  BasePage:31 - Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla matched.
+2019-02-10 09:11:52 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> xpath: //span[text()='Sign In']] found
+2019-02-10 09:11:53 INFO  BasePage:47 - clicked on [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> xpath: //span[text()='Sign In']]
+2019-02-10 09:11:53 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: emailId] found
+2019-02-10 09:11:54 INFO  BasePage:79 - prema@gmail.com has been set to [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: emailId]
+2019-02-10 09:11:54 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: continueBtn] found
+2019-02-10 09:11:54 INFO  BasePage:93 - Clicked successfully on [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: continueBtn]
+2019-02-10 09:11:55 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: userPassword] found
+2019-02-10 09:11:55 INFO  BasePage:107 - Apple12349 has been set to [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: userPassword]
+2019-02-10 09:11:55 INFO  BasePage:45 - [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: loginCheck] found
+2019-02-10 09:11:56 INFO  BasePage:122 - clicked succesdfully on [[ChromeDriver: chrome on XP (a40d88e219a90d0f08c914be9a8e7f4c)] -> id: loginCheck]
+2019-02-10 09:13:26 ERROR BasePage:49 - Proxy element for: DefaultElementLocator 'By.xpath: //i[@class='icon first_arrow hidden-xs']' not found
+2019-02-10 09:14:26 ERROR BasePage:64 - Unable to mouse hover on Proxy element for: DefaultElementLocator 'By.xpath: //i[@class='icon first_arrow hidden-xs']'
+2019-02-10 09:15:56 ERROR BasePage:49 - Proxy element for: DefaultElementLocator 'By.xpath: //i[@class='icon logout']' not found
+2019-02-10 09:16:26 INFO  BasePage:31 - Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla and Ethnic Wear - Buy Ethnic Wear in Latest Designs Online at Craftsvilla matched.

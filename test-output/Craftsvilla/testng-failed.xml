@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Craftsvilla]">
+  <listeners>
+    <listener class-name="com.craftsvilla.generic.ITest"/>
+  </listeners>
+  <test thread-count="5" name="Regression(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.craftsvilla.testscripts.EmbroidedSareesScripts">
+        <methods>
+          <include name="tc_01_buyProductFromEmbroidedSarees"/>
+          <include name="launchApplication"/>
+          <include name="closeApplication"/>
+        </methods>
+      </class> <!-- com.craftsvilla.testscripts.EmbroidedSareesScripts -->
+      <class name="com.craftsvilla.testscripts.LogInScripts">
+        <methods>
+          <include name="launchApplication"/>
+          <include name="closeApplication"/>
+          <include name="tc_01_loginToApp"/>
+        </methods>
+      </class> <!-- com.craftsvilla.testscripts.LogInScripts -->
+    </classes>
+  </test> <!-- Regression(failed) -->
+</suite> <!-- Failed suite [Craftsvilla] -->

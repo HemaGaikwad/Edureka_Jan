@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" ignored="0" total="2" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Craftsvilla" duration-ms="443446" started-at="2019-02-10T03:39:06Z" finished-at="2019-02-10T03:46:29Z">
+    <groups>
+    </groups>
+    <test name="Regression" duration-ms="443446" started-at="2019-02-10T03:39:06Z" finished-at="2019-02-10T03:46:29Z">
+      <class name="com.craftsvilla.testscripts.LogInScripts">
+        <test-method status="PASS" signature="launchApplication(java.lang.String)[pri:0, instance:com.craftsvilla.testscripts.LogInScripts@5e853265]" name="launchApplication" is-config="true" duration-ms="35809" started-at="2019-02-10T03:40:22Z" finished-at="2019-02-10T03:40:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="FAIL" signature="tc_01_loginToApp()[pri:0, instance:com.craftsvilla.testscripts.LogInScripts@5e853265]" name="tc_01_loginToApp" duration-ms="328269" started-at="2019-02-10T03:40:58Z" finished-at="2019-02-10T03:46:26Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertTrue(Assert.java:44)
+at org.testng.Assert.assertTrue(Assert.java:54)
+at com.craftsvilla.testscripts.LogInScripts.tc_01_loginToApp(LogInScripts.java:40)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.TestNG.privateMain(TestNG.java:1354)
+at org.testng.TestNG.main(TestNG.java:1323)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01_loginToApp -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.craftsvilla.testscripts.LogInScripts@5e853265]" name="closeApplication" is-config="true" duration-ms="1120" started-at="2019-02-10T03:46:28Z" finished-at="2019-02-10T03:46:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.craftsvilla.testscripts.LogInScripts -->
+      <class name="com.craftsvilla.testscripts.EmbroidedSareesScripts">
+        <test-method status="PASS" signature="launchApplication(java.lang.String)[pri:0, instance:com.craftsvilla.testscripts.EmbroidedSareesScripts@6c49835d]" name="launchApplication" is-config="true" duration-ms="39752" started-at="2019-02-10T03:39:06Z" finished-at="2019-02-10T03:39:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="FAIL" signature="tc_01_buyProductFromEmbroidedSarees()[pri:0, instance:com.craftsvilla.testscripts.EmbroidedSareesScripts@6c49835d]" name="tc_01_buyProductFromEmbroidedSarees" duration-ms="34192" started-at="2019-02-10T03:39:46Z" finished-at="2019-02-10T03:40:20Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: null
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.fail(Assert.java:103)
+at com.craftsvilla.testscripts.EmbroidedSareesScripts.tc_01_buyProductFromEmbroidedSarees(EmbroidedSareesScripts.java:38)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.TestNG.privateMain(TestNG.java:1354)
+at org.testng.TestNG.main(TestNG.java:1323)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01_buyProductFromEmbroidedSarees -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.craftsvilla.testscripts.EmbroidedSareesScripts@6c49835d]" name="closeApplication" is-config="true" duration-ms="1120" started-at="2019-02-10T03:40:21Z" finished-at="2019-02-10T03:40:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.craftsvilla.testscripts.EmbroidedSareesScripts -->
+    </test> <!-- Regression -->
+  </suite> <!-- Craftsvilla -->
+</testng-results>
