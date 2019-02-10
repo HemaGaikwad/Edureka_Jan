@@ -1,5 +1,5 @@
 package com.craftsvilla.pompages;
-
+//This class contains all webelements on the cart page
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -14,7 +14,6 @@ public class CartPage extends BasePage
 	
 	@FindBy(id="address-first-name")
 	private WebElement firstName;
-	
 	@FindBy(id="address-mobileno")
 	private WebElement mobileNo;
 	
